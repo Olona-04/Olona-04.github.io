@@ -1,4 +1,4 @@
-# PORTFOLIO – Olona Metia Williams
+# 💼 PORTFOLIO – Olona Metia Williams
 
 ## Welcome to My Portfolio
 
