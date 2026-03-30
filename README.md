@@ -84,7 +84,7 @@ Matric (Grade 12) — Completed 2020
 
 You can view or download my CV here:
 
-🔗 [Download My CV](https://github.com/Olona-04/Olona-Metia-Williams-CV)
+🔗 [Download My CV](https://github.com/wil-it-2026/cv-submission-Olona-04/blob/main/Olona%20Metia%20Williams%20-221630635%20Resume.pdf)
 
 ---
 
