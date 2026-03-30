@@ -1,4 +1,4 @@
-# 💼 Portfolio – Olona Metia Williams
+# PORTFOLIO – Olona Metia Williams
 
 ## Welcome to My Portfolio
 
@@ -54,7 +54,7 @@ I have experience building web applications that include both **frontend and bac
 
 ---
 
-## 🧠 Concepts and Tools
+##  Concepts and Tools
 
 - Object-Oriented Programming (OOP)  
 - Database Design  
@@ -76,7 +76,7 @@ Higher Certificate in Information & Communication Technology
 *Completed: 2024*
 
 **Bernadino Heights High School**  
-Matric (Grade 12) — Completed 2020
+*Matric (Grade 12) — Completed 2020*
 
 ---
 
@@ -96,7 +96,7 @@ Watch my mock interview video here:
 
 ---
 
-## 🚀 What I Am Currently Working On
+##  What I Am Currently Working On
 
 - Improving my **Java and full-stack development skills**  
 - Building **web development projects**  
@@ -109,7 +109,7 @@ Watch my mock interview video here:
 
 My goal is to start my career as a **Junior Software Developer or Web Developer**, where I can apply my technical knowledge to real-world projects while continuing to learn from experienced developers.
 
-I aim to grow into a skilled developer who contributes to building **efficient, scalable, and user-friendly applications**.
+I aim to grow into a skilled developer who contributes to building efficient, scalable, and user-friendly applications.
 
 ---
 
