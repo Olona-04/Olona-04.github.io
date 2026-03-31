@@ -1,4 +1,4 @@
-# OLONA METIA WILLIAMS
+# OLONA METIA WILLIAMS - PORTFOLIO
 
 📍 20508 Mzuzu Street, Bloekombos, Kraaifontein, 7570  
 📞 062 770 0449 / 083 418 8608  
@@ -106,6 +106,10 @@ sesethumbodlana431@gmail.com
 ---
 
 <h2>Mock Interview Video</h2>
-<video width="400" controls>
+<video width="800" height="450" controls>
   <source src="assets/Olona_Williams_Mock_interview_video.mp4" type="video/mp4">
 </video>
+---
+## ✨ Final Note
+
+Thank you for taking the time to explore my portfolio. I am always open to **learning opportunities, collaborations, and internship opportunities** in the field of software development.
