@@ -137,3 +137,8 @@ https://www.linkedin.com/in/olona-williams-5797653b1/
 ## ✨ Final Note
 
 Thank you for taking the time to explore my portfolio. I am always open to **learning opportunities, collaborations, and internship opportunities** in the field of software development.
+
+<h2>Mock Interview Video</h2>
+<video width="600" controls>
+  <source src="assets/Olona_Williams_Mock_interview_video.mp4" type="video/mp4">
+</video>
