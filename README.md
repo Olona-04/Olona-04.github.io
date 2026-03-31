@@ -69,7 +69,17 @@ National Diploma in Information Technology – Application Development*
 - Promoted products and helped maintain high levels of customer satisfaction.
 
 ---
+##  What I Am Currently Working On
 
+- Improving my **Java and full-stack development skills**  
+
+- Building **web development projects**  
+
+- Strengthening my **Git and GitHub portfolio**  
+
+- Expanding my knowledge of **UI/UX design**
+
+---
 ## 📞 References
 
 **Mr Sabelo Nobula**  
