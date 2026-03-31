@@ -1,82 +1,79 @@
-# 💼 PORTFOLIO – Olona Metia Williams
+OLONA METIA WILLIAMS
 
-## Welcome to My Portfolio
+CONTACT
+📍 20508 Mzuzu Street, Bloekombos, Kraaifontein, 7570
+📞 062 770 0449 / 083 418 8608
+📧 221630635@mycput.ac.za
+GitHub link- https://github.com/Olona-04
+LinkedIn- https://www.linkedin.com/in/olona-williams-5797653b1/
 
-Welcome! Thank you for taking the time to visit my GitHub portfolio.  
-This portfolio showcases my **technical skills, education, and projects** as a final-year **Information Technology (Application Development)** student at the **Cape Peninsula University of Technology (CPUT)**.
+🎯 CAREER OBJECTIVE
+Final-year Information Technology (Application Development) student at Cape Peninsula University of Technology (CPUT) with a strong interest in software and web development. Passionate about building practical digital solutions and improving user experiences through technology. Seeking an internship or junior developer opportunity to apply programming, database, and UI/UX skills while gaining industry experience.
 
-Here you will find information about the technologies I work with, the projects I have developed, and my goals as an aspiring software developer.
+🎓 EDUCATION
+Bernadino Heights High School
+Matric (Grade 12) — Completed 2020
 
----
+Cape Peninsula University of Technology (CPUT)
+Higher Certificate in Information & Communication Technology
+Completed: 2024
 
-## 👩‍💻 About Me
+Cape Peninsula University of Technology (CPUT)
+National Diploma in Information Technology – Application Development
+Currently Enrolled (Final Year)
 
-I'm **Olona Metia Williams**, a final-year **Information Technology (Application Development)** student at the **Cape Peninsula University of Technology (CPUT)**.
+TECHNICAL SKILLS
+Python
+Java & JavaScript
+HTML / CSS
+PHP
+MySQL/Database connectivity
+User Interface Design (UI)
+Git Version Control
+Wireframing & Prototyping (Figma)
 
-I am passionate about **software development, web development, and UI/UX design**. I enjoy building digital solutions that improve user experiences and solve real-world problems. Through my studies and projects, I have gained experience in programming, database development, and designing user-friendly interfaces.
+🛠️ PROJECT EXPERIENCE
+NSFAS Mobile App Redesign Prototype — 2025
+Tools: Figma, UI/UX Design
 
-What I enjoy most about technology and development:
+Designed an interactive NSFAS mobile app prototype to improve student funding access.
+Created core app flows including login, applications, document uploads, and dashboard tracking.
+Applied user-centered design principles to enhance usability and navigation.
 
-- Building **web applications and software solutions**
-- Designing **clean and user-friendly interfaces**
-- Strengthening my **programming and problem-solving skills**
-- Learning **new technologies and development tools**
-- Collaborating with others on **innovative development projects**
-  
-Through my academic journey and project work, I have gained practical experience in **programming, database development, and user interface design**, and I am eager to apply these skills in real-world environments.
+Thrifting E-Commerce Website (Group Project) — 2025
+Technologies: HTML, CSS, Java, PHP, MySQL
 
----
+Developed a thrift clothing website with responsive user interfaces.
+Implemented PHP backend functionality and database connectivity.
+Enabled dynamic product display and data storage.
+Collaborated in a team using structured development practices.
 
-## 💻 Technical Skills
+💼 WORK EXPERIENCE
+Educator Assistant
+Northpine Technical High School | 2021 – 2022
 
-- Java  
-- Python  
-- JavaScript  
-- HTML  
-- CSS  
-- PHP  
-- MySQL / Database Connectivity  
-- Git & GitHub  
+Assisted educators with classroom preparation and administrative duties.
+Supported learners with academic activities and problem-solving tasks.
+Managed mark sheets and educational records.
+Maintained a structured and safe learning environment.
 
----
+General Assistant
+Giant Hyper | Nov 2018 – Dec 2018
 
-## 🌐 Web Development
+Assisted customers with product enquiries and provided friendly customer service.
+Supported daily retail operations including stocking shelves and organizing merchandise displays.
+Promoted products and helped maintain high levels of customer satisfaction.
 
-I have experience building web applications that include both **frontend and backend functionality**.
+📞 REFERENCE
+Mr Sabelo Nobula
+Western Cape Government (Department of the Premier)
+Sabelo.Nobula@westerncape.gov.za
+0214679246/0728654848
 
-**Technologies used:**
-
-- HTML for page structure  
-- CSS for styling and responsiveness  
-- JavaScript for interactivity  
-- PHP for backend functionality  
-- MySQL for database management  
-
----
-
-##  Concepts and Tools
-
-- Object-Oriented Programming (OOP)  
-- Database Design  
-- UI/UX Design Principles  
-- Wireframing & Prototyping (Figma)  
-- Version Control with Git  
-- Responsive Web Design  
-
----
-
-## 🎓 Education
-
-**Cape Peninsula University of Technology (CPUT)**  
-National Diploma in Information Technology – Application Development  
-*Currently in Final Year*
-
-**Cape Peninsula University of Technology (CPUT)**  
-Higher Certificate in Information & Communication Technology  
-*Completed: 2024*
-
-**Bernadino Heights High School**  
-*Matric (Grade 12) — Completed 2020*
+Sesethu Mbodlana
+SAB brewery Newlands
+sesethumbodlana431@gmail.com
+0623429048
 
 ---
 
@@ -85,52 +82,6 @@ Higher Certificate in Information & Communication Technology
 You can view or download my CV here:
 
 🔗 [Download My CV](https://github.com/wil-it-2026/cv-submission-Olona-04)
-
----
-
-## 🎥 Mock Interview Video
-
-Watch my mock interview video here:
-
-▶️ [Mock Interview Video](https://drive.google.com/file/d/1VSNbZQeXPXVSfb6EkVnzQnRDEvb4bWCV/view?usp=sharing)
-
----
-
-##  What I Am Currently Working On
-
-- Improving my **Java and full-stack development skills**  
-- Building **web development projects**  
-- Strengthening my **Git and GitHub portfolio**  
-- Expanding my knowledge of **UI/UX design**
-
----
-
-## 🎯 Career Goals
-
-My goal is to start my career as a **Junior Software Developer or Web Developer**, where I can apply my technical knowledge to real-world projects while continuing to learn from experienced developers.
-
-I aim to grow into a skilled developer who contributes to building efficient, scalable, and user-friendly applications.
-
----
-
-## 🤝 Soft Skills
-
-- Teamwork and collaboration  
-- Problem-solving  
-- Communication  
-- Adaptability  
-- Time management  
-- Attention to detail  
-
----
-
-## 📬 Contact Me
-
-📧 Email: **221630635@mycput.ac.za**  
-📱 Phone: **0627700449**
-
-🔗 LinkedIn:  
-https://www.linkedin.com/in/olona-williams-5797653b1/
 
 ---
 
