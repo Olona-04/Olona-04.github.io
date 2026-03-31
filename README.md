@@ -95,21 +95,13 @@ National Diploma in Information Technology – Application Development*
 
 **Mr Sabelo Nobula**  
 Western Cape Government – Department of the Premier  
-📧 Sabelo.Nobula@westerncape.gov.za  
-📞 021 467 9246 / 072 865 4848
+Sabelo.Nobula@westerncape.gov.za  
+021 467 9246 / 072 865 4848
 
-**Sesethu Mbodlana**  
+**Miss Sesethu Mbodlana**  
 SAB Brewery – Newlands  
-📧 sesethumbodlana431@gmail.com  
-📞 062 342 9048
-
----
-
-## 📄 My CV
-
-You can view or download my CV here:
-
-🔗 [Download My CV](https://github.com/wil-it-2026/cv-submission-Olona-04)
+sesethumbodlana431@gmail.com  
+062 342 9048
 
 ---
 
