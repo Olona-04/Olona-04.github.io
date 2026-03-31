@@ -47,27 +47,6 @@ National Diploma in Information Technology – Application Development*
 
 ---
 
-## 🛠️ Project Experience
-
-### NSFAS Mobile App Redesign Prototype — 2025  
-**Tools:** Figma, UI/UX Design
-
-- Designed an interactive NSFAS mobile app prototype to improve student funding access.
-- Created core app flows including **login, applications, document uploads, and dashboard tracking**.
-- Applied **user-centered design principles** to improve usability and navigation.
-
----
-
-### Thrifting E-Commerce Website (Group Project) — 2025  
-**Technologies:** HTML, CSS, Java, PHP, MySQL
-
-- Developed a thrift clothing website with **responsive user interfaces**.
-- Implemented **PHP backend functionality** and **database connectivity**.
-- Enabled **dynamic product display and data storage**.
-- Collaborated within a team using structured development practices.
-
----
-
 ## 💼 Work Experience
 
 ### Educator Assistant  
@@ -104,6 +83,7 @@ sesethumbodlana431@gmail.com
 062 342 9048
 
 ---
+## MY CV
 [📄 Download My CV](https://github.com/wil-it-2026/cv-submission-Olona-04/blob/main/Olona%20Metia%20Williams%20-221630635%20Resume.pdf)
 
 <h2>Mock Interview Video</h2>
