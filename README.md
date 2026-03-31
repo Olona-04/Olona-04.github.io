@@ -104,6 +104,7 @@ sesethumbodlana431@gmail.com
 062 342 9048
 
 ---
+[📄 Download My CV](https://github.com/wil-it-2026/cv-submission-Olona-04/blob/main/Olona%20Metia%20Williams%20-221630635%20Resume.pdf)
 
 <h2>Mock Interview Video</h2>
 <video width="800" height="450" controls>
