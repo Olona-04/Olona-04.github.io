@@ -3,7 +3,6 @@
 📍 20508 Mzuzu Street, Bloekombos, Kraaifontein, 7570  
 📞 062 770 0449 / 083 418 8608  
 📧 221630635@mycput.ac.za  
-
 🔗 **GitHub:** https://github.com/Olona-04  
 🔗 **LinkedIn:** https://www.linkedin.com/in/olona-williams-5797653b1/
 
@@ -13,23 +12,23 @@
 
 Final-year **Information Technology (Application Development)** student at **Cape Peninsula University of Technology (CPUT)** with a strong interest in **software and web development**. Passionate about building practical digital solutions and improving user experiences through technology.
 
-Seeking an **internship or junior developer opportunity** where I can apply programming, database, and UI/UX skills while gaining valuable industry experience.
+Currently seeking an internship or junior developer opportunity, where I can apply programming, database, and UI/UX skills while gaining valuable industry experience.
 
 ---
 
 ## 🎓 Education
 
 **Bernadino Heights High School**  
-*Matric (Grade 12)*  
-📅 Completed: 2020
+Matric (Grade 12) 
+*Completed: 2020*
 
 **Cape Peninsula University of Technology (CPUT)**  
-*Higher Certificate in Information & Communication Technology*  
-📅 Completed: 2024
+Higher Certificate in Information & Communication Technology  
+*Completed: 2024*
 
 **Cape Peninsula University of Technology (CPUT)**  
-*National Diploma in Information Technology – Application Development*  
-📅 Currently Enrolled (Final Year)
+National Diploma in Information Technology – Application Development*  
+*Currently Enrolled (Final Year)*
 
 ---
 
@@ -113,10 +112,6 @@ You can view or download my CV here:
 🔗 [Download My CV](https://github.com/wil-it-2026/cv-submission-Olona-04)
 
 ---
-
-## ✨ Final Note
-
-Thank you for taking the time to explore my portfolio. I am always open to **learning opportunities, collaborations, and internship opportunities** in the field of software development.
 
 <h2>Mock Interview Video</h2>
 <video width="600" controls>
