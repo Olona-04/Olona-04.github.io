@@ -110,6 +110,7 @@ sesethumbodlana431@gmail.com
   <source src="assets/Olona_Williams_Mock_interview_video.mp4" type="video/mp4">
 </video>
 ---
+
 ## ✨ Final Note
 
 Thank you for taking the time to explore my portfolio. I am always open to **learning opportunities, collaborations, and internship opportunities** in the field of software development.
