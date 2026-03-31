@@ -106,6 +106,6 @@ sesethumbodlana431@gmail.com
 ---
 
 <h2>Mock Interview Video</h2>
-<video width="600" controls>
+<video width="400" controls>
   <source src="assets/Olona_Williams_Mock_interview_video.mp4" type="video/mp4">
 </video>
