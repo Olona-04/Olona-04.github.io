@@ -51,19 +51,19 @@ National Diploma in Information Technology – Application Development*
 ### NSFAS Mobile App Redesign Prototype — 2025  
 Tools: Figma, UI/UX Design  
 
--Designed an interactive NSFAS mobile app prototype to improve student funding access.  
--Created core app flows including login, applications, document uploads, and dashboard tracking.  
--Applied user-centered design principles to enhance usability and navigation.  
+- Designed an interactive NSFAS mobile app prototype to improve student funding access.  
+- Created core app flows including login, applications, document uploads, and dashboard tracking.  
+- Applied user-centered design principles to enhance usability and navigation.  
 
 ---
 
 ### Thrifting E-Commerce Website (Group Project) — 2025  
 Technologies: HTML, CSS, Java, PHP, MySQL  
 
--Developed a thrift clothing website with responsive user interfaces.  
--Implemented PHP backend functionality and database connectivity.  
--Enabled dynamic product display and data storage.  
--Collaborated in a team using structured development practices.  
+- Developed a thrift clothing website with responsive user interfaces.  
+- Implemented PHP backend functionality and database connectivity.  
+- Enabled dynamic product display and data storage.  
+- Collaborated in a team using structured development practices.  
 
 ---
 
