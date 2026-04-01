@@ -46,6 +46,26 @@ National Diploma in Information Technology – Application Development*
 - Wireframing & Prototyping (Figma)
 
 ---
+## 🛠️ PROJECT EXPERIENCE
+
+### NSFAS Mobile App Redesign Prototype — 2025  
+Tools: Figma, UI/UX Design  
+
+Designed an interactive NSFAS mobile app prototype to improve student funding access.  
+Created core app flows including login, applications, document uploads, and dashboard tracking.  
+Applied user-centered design principles to enhance usability and navigation.  
+
+---
+
+### Thrifting E-Commerce Website (Group Project) — 2025  
+Technologies: HTML, CSS, Java, PHP, MySQL  
+
+Developed a thrift clothing website with responsive user interfaces.  
+Implemented PHP backend functionality and database connectivity.  
+Enabled dynamic product display and data storage.  
+Collaborated in a team using structured development practices.  
+
+---
 
 ## 💼 Work Experience
 
@@ -67,18 +87,6 @@ National Diploma in Information Technology – Application Development*
 - Assisted customers with product enquiries and provided friendly customer service.
 - Supported daily retail operations including **stocking shelves and organizing merchandise displays**.
 - Promoted products and helped maintain high levels of customer satisfaction.
-
----
-##  What I Am Currently Working On
-
-- Improving my **Java and full-stack development skills**  
-
-- Building **web development projects**  
-
-- Strengthening my **Git and GitHub portfolio**  
-
-- Expanding my knowledge of **UI/UX design**
-
 ---
 ## 📞 References
 
