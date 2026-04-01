@@ -12,7 +12,7 @@
 
 Final-year **Information Technology (Application Development)** student at **Cape Peninsula University of Technology (CPUT)** with a strong interest in **software and web development**. Passionate about building practical digital solutions and improving user experiences through technology.
 
-Currently seeking an internship or junior developer opportunity, where I can apply programming, database, and UI/UX skills while gaining valuable industry experience.
+My goal is to gain practical experience through Work Integrated Learning (WIL) and develop into a competent software developer. I aim to contribute to innovative and impactful projects while continuously enhancing my technical, problem-solving, and teamwork skills.
 
 ---
 
